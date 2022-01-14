@@ -4,7 +4,7 @@ This project represents the result of a [blog post](https://medium.com/@stefan.h
 
 The contents is the result of running `create-react-app` and doing the following steps
 from the post. The only thing you have to do before starting is to enter your ux4iot
-admin connection string in `App.js`.
+admin connection string in `src/App.js`.
 
 Then, you can start the app using:
 
